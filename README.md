@@ -1,7 +1,7 @@
 This is a Python repository for my FlatIron Data Science Capstone project on the 2020 Presidential Election.  
 
 # Project Goal:
-The goal of my project is to explore just how small of a subsection of voters is needed to win the Presidency.  It in itself is a very loaded question but in the age of extreme political polarization I felt we could explore the parameters of this through the various techniques learned throughout this course.  
+The goal of my project is to explore and model the key swing state in the 2020 election. I felt we could explore the parameters of this election through the various techniques learned throughout this course.  
 
 As with all things we needed to understand the baseline rules of the presidential election process.
 
@@ -9,7 +9,9 @@ As with all things we needed to understand the baseline rules of the presidentia
 
 Data Collection is ... inconsistent (to put it lightly):
 
-Election data and its ancillary data sources is extremely fragmented as elections are run and organized individually by state and somehow cobbled together nationally.  Although the end vote is all that matters, other data is pretty much the Wild, wild west.  As such formats, naming conventions, etc can be all over the place.   
+Polls and surveys are inherently not done equally.  Nate Silver attempts to normalize this by using grades for organizations but two surveys (this is assuming they even publish the questions) from the same organization can have different biases and would require someone smarter than me to remove individual biase.
+
+Election data and its ancillary data sources is extremely fragmented as elections are run and organized individually by state (in Florida's case, by county) and somehow cobbled together nationally.  Although the end vote is all that matters, other data is pretty much the wild, wild west.  As such formats, naming conventions, etc can be all over the place.   
 
 Once you try to dig deeper, state-level data is often also not collected in a systematic manner that makes aggregation easy.  (I think this is by design).  Often-times when collecting specific data in Florida, I had to visit each county individually and then write some helper functions to clean up and mismatched, misnamed data.  One county ("Gulf") in Florida actually attempted to install malware onto my computer and I got in touch with their IT group to inform them of their unwanted issue.  Extrapolate this by the 3141 counties in the US, and I can see why election night is a nightmare.   Perhaps there's a project available on Election Logistics Reform.
 
@@ -61,6 +63,27 @@ https://worldpopulationreview.com/states/number-of-registered-voters-by-state/
 County level returns for Presidential Elections (2000-2016)
 https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/VOQCHQ
 
+TV Ads all politicians
+https://www.democracyinaction.us/2020/ads/ads.html
+
+Florida Data Sources:
+http://edr.state.fl.us/Content/area-profiles/county/index.cfm
+
+Florida Election History:
+https://results.elections.myflorida.com/Index.asp?ElectionDate=11/8/2016&DATAMODE=
+
+Florida County level demographics
+https://www.bebr.ufl.edu/population/data
+2019 Estimates xlsx
+Age distribution (table 12)
+Black Population (table 15)
+Hispanic Population (table 16)
+
+Florida County Level Household Income
+http://www.flhealthcharts.com/charts/OtherIndicators/NonVitalIndGrpDataViewer.aspx?cid=0293
+GED over 25
+http://www.flhealthcharts.com/charts/OtherIndicators/NonVitalIndRateOnlyDataViewer.aspx?cid=0297
+http://www.flhealthcharts.com/charts/OtherIndicators/NonVitalIndGrpDataViewer.aspx?cid=9774
 
 Pull requests are welcome. Suggestions and comments on anything from the programming to the modeling are also welcome.
 
