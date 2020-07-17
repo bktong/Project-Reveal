@@ -1,0 +1,432 @@
+﻿PolygonLayer1_label,Value0
+,9.6
+,13.7
+,5.6
+,11.1
+,18.4
+,10.2
+,11.3
+,15.1
+,8.4
+,10.1
+,3.8
+,12.9
+,8.8
+,6.4
+,11.8
+,12.8
+,9.6
+,10.4
+,12.6
+,6.3
+,6.1
+,8.8
+,11.7
+,9.9
+,9.9
+,7.1
+,9.9
+,10.3
+,8.5
+,12.0
+,7.6
+,11.8
+,8.8
+,11.3
+,11.5
+,10.0
+,14.9
+,9.5
+,8.6
+,10.4
+,7.8
+,10.1
+,12.1
+,7.1
+,20.9
+,8.2
+,13.7
+,7.5
+,12.4
+,10.1
+,11.6
+,8.2
+,8.7
+,10.8
+,10.9
+,7.1
+,10.3
+,9.2
+,12.0
+,10.4
+,12.0
+,8.4
+,14.6
+,10.7
+,9.4
+,10.5
+,9.6
+,8.9
+,8.5
+,14.7
+,5.2
+,6.5
+,7.1
+,12.4
+,9.6
+,11.2
+,10.2
+,12.4
+,13.1
+,7.4
+,14.4
+,9.2
+,4.2
+,10.7
+,9.4
+,13.0
+,4.9
+,11.7
+
+PolygonLayer2_label,Value0
+,13.1
+,16.8
+,11.1
+,14.1
+,16.8
+,12.8
+,9.7
+,10.3
+,12.2
+,16.1
+,13.7
+,14.5
+,9.0
+,11.7
+,12.1
+,13.0
+,11.2
+,11.9
+,16.7
+,18.7
+,11.6
+,9.1
+,10.0
+,14.0
+,9.6
+,19.8
+,13.2
+,12.9
+,11.0
+,13.1
+,7.6
+,9.5
+,18.8
+,13.7
+,14.1
+,10.6
+,13.8
+,15.5
+,12.5
+,12.2
+,12.8
+,15.2
+,12.9
+,15.2
+,14.9
+,9.1
+,10.7
+,10.7
+,10.3
+,17.4
+,11.1
+,10.7
+
+Textbox105,Textbox106,fips2,county2,ruc_code2,total_est_pct3,total_est_pct_Bmin3,total_est_pct_Bmax3,under18_pct3,under18_pct_Bmin3,under18_pct_Bmax3
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27000,Minnesota,,9.6,9.4,9.8,11.5,10.9,12.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27001,Aitkin,8,13.7,11.5,15.9,20.1,14.9,25.3
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27003,Anoka,1,5.6,4.7,6.5,7.4,5.8,9.0
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27005,Becker,6,11.1,9.2,13.0,15.8,11.7,19.9
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27007,Beltrami,7,18.4,15.8,21.0,23.6,18.1,29.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27009,Benton,3,10.2,8.5,11.9,12.0,9.3,14.7
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27011,Big Stone,9,11.3,8.7,13.9,15.4,10.8,20.0
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27013,Blue Earth,3,15.1,13.4,16.8,10.9,7.9,13.9
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27015,Brown,6,8.4,6.8,10.0,10.4,7.6,13.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27017,Carlton,2,10.1,8.3,11.9,11.0,8.6,13.4
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27019,Carver,1,3.8,3.0,4.6,3.7,2.7,4.7
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27021,Cass,9,12.9,10.8,15.0,20.3,15.2,25.4
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27023,Chippewa,7,8.8,6.7,10.9,13.0,9.2,16.8
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27025,Chisago,1,6.4,5.2,7.6,7.4,5.7,9.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27027,Clay,3,11.8,9.8,13.8,13.2,10.3,16.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27029,Clearwater,8,12.8,10.1,15.5,17.8,12.8,22.8
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27031,Cook,9,9.6,7.5,11.7,13.6,9.8,17.4
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27033,Cottonwood,7,10.4,7.9,12.9,16.1,11.6,20.6
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27035,Crow Wing,4,12.6,11.0,14.2,16.6,13.6,19.6
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27037,Dakota,1,6.3,5.5,7.1,7.9,6.6,9.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27039,Dodge,3,6.1,4.8,7.4,7.3,5.4,9.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27041,Douglas,6,8.8,7.2,10.4,9.5,7.1,11.9
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27043,Faribault,6,11.7,9.5,13.9,17.6,13.3,21.9
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27045,Fillmore,3,9.9,7.8,12.0,14.5,10.7,18.3
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27047,Freeborn,7,9.9,8.0,11.8,13.2,9.7,16.7
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27049,Goodhue,4,7.1,5.8,8.4,7.9,5.9,9.9
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27051,Grant,9,9.9,7.8,12.0,14.4,10.3,18.5
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27053,Hennepin,1,10.3,9.7,10.9,11.6,10.2,13.0
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27055,Houston,3,8.5,6.9,10.1,9.2,6.9,11.5
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27057,Hubbard,7,12.0,10.0,14.0,18.9,14.8,23.0
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27059,Isanti,1,7.6,6.1,9.1,9.4,6.9,11.9
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27061,Itasca,6,11.8,9.8,13.8,16.2,12.7,19.7
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27063,Jackson,7,8.8,7.0,10.6,12.1,8.6,15.6
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27065,Kanabec,6,11.3,8.9,13.7,17.4,12.6,22.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27067,Kandiyohi,4,11.5,9.6,13.4,17.9,14.4,21.4
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27069,Kittson,9,10.0,7.9,12.1,13.8,10.0,17.6
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27071,Koochiching,6,14.9,12.0,17.8,21.6,16.1,27.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27073,Lac qui Parle,9,9.5,7.5,11.5,11.8,8.4,15.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27075,Lake,6,8.6,6.7,10.5,11.6,8.4,14.8
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27077,Lake of the Woods,9,10.4,8.1,12.7,14.0,10.5,17.5
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27079,Le Sueur,1,7.8,6.3,9.3,8.7,6.6,10.8
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27081,Lincoln,9,10.1,8.0,12.2,11.8,8.5,15.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27083,Lyon,7,12.1,10.1,14.1,14.1,10.7,17.5
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27085,McLeod,6,7.1,5.7,8.5,9.1,6.7,11.5
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27087,Mahnomen,8,20.9,17.6,24.2,29.7,22.0,37.4
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27089,Marshall,8,8.2,6.3,10.1,9.7,7.0,12.4
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27091,Martin,7,13.7,11.6,15.8,19.4,15.2,23.6
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27093,Meeker,6,7.5,6.0,9.0,9.5,7.2,11.8
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27095,Mille Lacs,1,12.4,10.6,14.2,16.5,12.9,20.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27097,Morrison,6,10.1,8.2,12.0,11.9,8.6,15.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27099,Mower,4,11.6,9.6,13.6,13.4,10.2,16.6
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27101,Murray,9,8.2,6.3,10.1,11.5,8.3,14.7
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27103,Nicollet,3,8.7,7.0,10.4,9.0,6.4,11.6
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27105,Nobles,7,10.8,8.5,13.1,14.3,10.5,18.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27107,Norman,8,10.9,8.4,13.4,16.8,12.0,21.6
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27109,Olmsted,3,7.1,5.8,8.4,8.3,6.1,10.5
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27111,Otter Tail,6,10.3,8.7,11.9,14.0,10.9,17.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27113,Pennington,6,9.2,7.2,11.2,11.0,8.1,13.9
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27115,Pine,6,12.0,9.8,14.2,15.7,11.4,20.0
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27117,Pipestone,6,10.4,8.1,12.7,15.0,11.0,19.0
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27119,Polk,3,12.0,9.9,14.1,16.1,12.6,19.6
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27121,Pope,8,8.4,6.6,10.2,10.0,7.2,12.8
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27123,Ramsey,1,14.6,13.4,15.8,20.9,18.5,23.3
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27125,Red Lake,8,10.7,8.6,12.8,12.6,9.6,15.6
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27127,Redwood,7,9.4,7.7,11.1,14.4,11.1,17.7
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27129,Renville,8,10.5,8.4,12.6,15.4,11.8,19.0
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27131,Rice,4,9.6,7.8,11.4,11.6,9.0,14.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27133,Rock,6,8.9,6.9,10.9,12.0,8.7,15.3
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27135,Roseau,7,8.5,6.8,10.2,11.7,8.8,14.6
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27137,St. Louis,2,14.7,13.4,16.0,14.5,11.5,17.5
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27139,Scott,1,5.2,4.3,6.1,6.1,4.8,7.4
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27141,Sherburne,1,6.5,5.4,7.6,6.9,5.3,8.5
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27143,Sibley,1,7.1,5.3,8.9,10.3,7.3,13.3
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27145,Stearns,3,12.4,10.8,14.0,13.8,11.1,16.5
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27147,Steele,5,9.6,8.1,11.1,12.2,9.4,15.0
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27149,Stevens,7,11.2,9.0,13.4,9.0,6.9,11.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27151,Swift,7,10.2,8.1,12.3,13.8,9.9,17.7
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27153,Todd,6,12.4,10.1,14.7,16.6,12.5,20.7
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27155,Traverse,9,13.1,10.1,16.1,22.0,15.9,28.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27157,Wabasha,3,7.4,5.9,8.9,8.3,6.0,10.6
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27159,Wadena,7,14.4,11.4,17.4,18.2,13.5,22.9
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27161,Waseca,6,9.2,7.3,11.1,12.0,8.8,15.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27163,Washington,1,4.2,3.4,5.0,4.5,3.3,5.7
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27165,Watonwan,6,10.7,8.4,13.0,14.2,10.3,18.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27167,Wilkin,6,9.4,7.3,11.5,13.6,9.8,17.4
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27169,Winona,4,13.0,11.2,14.8,11.1,8.0,14.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27171,Wright,1,4.9,4.0,5.8,4.7,3.4,6.0
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27173,Yellow Medicine,9,11.7,9.6,13.8,15.0,11.3,18.7
+
+Textbox93,Textbox96,fips,county,ruc_code,total_est,total_Bmin,total_Bmax,under18,under18_Bmin,under18_Bmax
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27000,Minnesota,,"527,445","514,989","539,901","147,732","140,356","155,108"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27001,Aitkin,8,"2,145","1,803","2,487",522,386,658
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27003,Anoka,1,"19,568","16,460","22,676","6,117","4,778","7,456"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27005,Becker,6,"3,764","3,105","4,423","1,299",965,"1,633"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27007,Beltrami,7,"8,220","7,055","9,385","2,682","2,060","3,304"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27009,Benton,3,"4,074","3,391","4,757","1,208",939,"1,477"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27011,Big Stone,9,549,423,675,158,111,205
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27013,Blue Earth,3,"9,693","8,578","10,808","1,424","1,037","1,811"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27015,Brown,6,"2,008","1,614","2,402",563,414,712
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27017,Carlton,2,"3,454","2,828","4,080",866,677,"1,055"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27019,Carver,1,"3,945","3,086","4,804","1,005",731,"1,279"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27021,Cass,9,"3,771","3,158","4,384","1,236",926,"1,546"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27023,Chippewa,7,"1,031",791,"1,271",360,255,465
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27025,Chisago,1,"3,508","2,869","4,147",922,703,"1,141"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27027,Clay,3,"7,220","5,975","8,465","2,057","1,600","2,514"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27029,Clearwater,8,"1,107",871,"1,343",383,276,490
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27031,Cook,9,511,397,625,114,82,146
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27033,Cottonwood,7,"1,147",875,"1,419",437,314,560
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27035,Crow Wing,4,"8,105","7,093","9,117","2,280","1,866","2,694"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27037,Dakota,1,"26,434","23,113","29,755","8,033","6,660","9,406"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27039,Dodge,3,"1,266",989,"1,543",386,286,486
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27041,Douglas,6,"3,304","2,715","3,893",762,571,953
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27043,Faribault,6,"1,569","1,268","1,870",514,389,639
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27045,Fillmore,3,"2,049","1,616","2,482",744,551,937
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27047,Freeborn,7,"2,948","2,372","3,524",857,629,"1,085"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27049,Goodhue,4,"3,250","2,637","3,863",792,591,993
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27051,Grant,9,583,459,707,192,138,246
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27053,Hennepin,1,"127,826","120,376","135,276","31,551","27,628","35,474"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27055,Houston,3,"1,560","1,266","1,854",365,274,456
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27057,Hubbard,7,"2,535","2,110","2,960",833,653,"1,013"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27059,Isanti,1,"2,987","2,393","3,581",859,626,"1,092"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27061,Itasca,6,"5,206","4,315","6,097","1,460","1,146","1,774"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27063,Jackson,7,864,686,"1,042",256,183,329
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27065,Kanabec,6,"1,800","1,421","2,179",590,429,751
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27067,Kandiyohi,4,"4,854","4,068","5,640","1,834","1,477","2,191"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27069,Kittson,9,415,327,503,125,90,160
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27071,Koochiching,6,"1,811","1,453","2,169",477,356,598
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27073,Lac qui Parle,9,619,487,751,155,111,199
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27075,Lake,6,900,696,"1,104",227,164,290
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27077,Lake of the Woods,9,383,298,468,98,73,123
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27079,Le Sueur,1,"2,191","1,780","2,602",585,447,723
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27081,Lincoln,9,562,445,679,155,111,199
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27083,Lyon,7,"3,009","2,510","3,508",920,699,"1,141"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27085,McLeod,6,"2,520","2,012","3,028",735,543,927
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27087,Mahnomen,8,"1,135",957,"1,313",505,374,636
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27089,Marshall,8,764,591,937,205,148,262
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27091,Martin,7,"2,677","2,259","3,095",818,640,996
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27093,Meeker,6,"1,715","1,370","2,060",523,394,652
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27095,Mille Lacs,1,"3,163","2,697","3,629",995,776,"1,214"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27097,Morrison,6,"3,307","2,673","3,941",907,651,"1,163"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27099,Mower,4,"4,567","3,761","5,373","1,317",998,"1,636"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27101,Murray,9,667,512,822,204,146,262
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27103,Nicollet,3,"2,759","2,210","3,308",665,471,859
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27105,Nobles,7,"2,335","1,844","2,826",838,612,"1,064"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27107,Norman,8,691,534,848,257,184,330
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27109,Olmsted,3,"10,908","8,962","12,854","3,141","2,323","3,959"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27111,Otter Tail,6,"5,940","4,999","6,881","1,776","1,383","2,169"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27113,Pennington,6,"1,278",997,"1,559",346,255,437
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27115,Pine,6,"3,319","2,707","3,931",877,635,"1,119"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27117,Pipestone,6,917,717,"1,117",345,254,436
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27119,Polk,3,"3,654","3,014","4,294","1,206",944,"1,468"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27121,Pope,8,919,726,"1,112",227,163,291
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27123,Ramsey,1,"78,160","72,003","84,317","26,401","23,339","29,463"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27125,Red Lake,8,423,338,508,120,92,148
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27127,Redwood,7,"1,409","1,151","1,667",535,414,656
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27129,Renville,8,"1,505","1,209","1,801",513,392,634
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27131,Rice,4,"5,718","4,655","6,781","1,661","1,297","2,025"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27133,Rock,6,815,631,999,282,204,360
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27135,Roseau,7,"1,261","1,010","1,512",419,316,522
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27137,St. Louis,2,"28,232","25,823","30,641","5,327","4,235","6,419"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27139,Scott,1,"7,563","6,290","8,836","2,421","1,913","2,929"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27141,Sherburne,1,"6,098","5,074","7,122","1,718","1,329","2,107"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27143,Sibley,1,"1,052",785,"1,319",357,254,460
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27145,Stearns,3,"18,879","16,482","21,276","4,972","3,988","5,956"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27147,Steele,5,"3,491","2,942","4,040","1,096",840,"1,352"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27149,Stevens,7,986,790,"1,182",182,139,225
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27151,Swift,7,936,741,"1,131",293,211,375
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27153,Todd,6,"3,017","2,457","3,577",953,716,"1,190"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27155,Traverse,9,418,321,515,149,108,190
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27157,Wabasha,3,"1,578","1,263","1,893",385,279,491
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27159,Wadena,7,"1,924","1,523","2,325",629,466,792
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27161,Waseca,6,"1,633","1,304","1,962",508,374,642
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27163,Washington,1,"10,755","8,783","12,727","2,851","2,093","3,609"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27165,Watonwan,6,"1,152",906,"1,398",376,273,479
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27167,Wilkin,6,572,442,702,185,133,237
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27169,Winona,4,"6,126","5,297","6,955",997,720,"1,274"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27171,Wright,1,"6,639","5,405","7,873","1,771","1,303","2,239"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),27173,Yellow Medicine,9,"1,124",923,"1,325",340,257,423
+
+Textbox98,Textbox99,state_National,total_est_pct2,total_est_pct_Bmin2,total_est_pct_Bmax2,under18_pct2,under18_pct_Bmin2,under18_pct_Bmax2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Alabama,16.8,16.5,17.1,23.9,23.2,24.6
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Alaska,11.1,10.5,11.7,14.5,13.4,15.6
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Arizona,14.1,13.8,14.4,20.4,19.7,21.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Arkansas,16.8,16.3,17.3,23.8,22.8,24.8
+All people in poverty (2018),Children ages 0-17 in poverty (2018),California,12.8,12.7,12.9,17.4,17.1,17.7
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Colorado,9.7,9.5,9.9,12.1,11.4,12.8
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Connecticut,10.3,10.0,10.6,13.8,13.1,14.5
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Delaware,12.2,11.6,12.8,17.6,16.4,18.8
+All people in poverty (2018),Children ages 0-17 in poverty (2018),District of Columbia,16.1,15.2,17.0,24.5,21.5,27.5
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Florida,13.7,13.5,13.9,20.0,19.5,20.5
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Georgia,14.5,14.2,14.8,21.0,20.4,21.6
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Hawaii,9.0,8.5,9.5,11.8,10.7,12.9
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Idaho,11.7,11.3,12.1,14.2,13.2,15.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Illinois,12.1,11.9,12.3,16.2,15.7,16.7
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Indiana,13.0,12.7,13.3,17.5,16.8,18.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Iowa,11.2,10.9,11.5,13.5,12.8,14.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Kansas,11.9,11.5,12.3,14.8,14.0,15.6
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Kentucky,16.7,16.3,17.1,22.3,21.5,23.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Louisiana,18.7,18.3,19.1,26.5,25.6,27.4
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Maine,11.6,11.2,12.0,14.8,13.8,15.8
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Maryland,9.1,8.8,9.4,12.1,11.4,12.8
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Massachusetts,10.0,9.8,10.2,12.4,11.7,13.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Michigan,14.0,13.8,14.2,19.3,18.8,19.8
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Minnesota,9.6,9.4,9.8,11.5,10.9,12.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Mississippi,19.8,19.3,20.3,28.2,27.2,29.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Missouri,13.2,12.9,13.5,18.3,17.6,19.0
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Montana,12.9,12.4,13.4,16.4,15.4,17.4
+All people in poverty (2018),Children ages 0-17 in poverty (2018),National,13.1,13.0,13.2,18.0,17.8,18.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Nebraska,11.0,10.6,11.4,12.9,12.1,13.7
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Nevada,13.1,12.7,13.5,18.4,17.6,19.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),New Hampshire,7.6,7.3,7.9,10.1,9.1,11.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),New Jersey,9.5,9.3,9.7,13.5,12.9,14.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),New Mexico,18.8,18.3,19.3,25.3,24.2,26.4
+All people in poverty (2018),Children ages 0-17 in poverty (2018),New York,13.7,13.5,13.9,18.8,18.3,19.3
+All people in poverty (2018),Children ages 0-17 in poverty (2018),North Carolina,14.1,13.8,14.4,20.2,19.6,20.8
+All people in poverty (2018),Children ages 0-17 in poverty (2018),North Dakota,10.6,10.0,11.2,11.0,10.0,12.0
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Ohio,13.8,13.6,14.0,19.2,18.6,19.8
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Oklahoma,15.5,15.2,15.8,21.4,20.7,22.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Oregon,12.5,12.2,12.8,15.7,14.8,16.6
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Pennsylvania,12.2,12.0,12.4,16.7,16.2,17.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Rhode Island,12.8,12.2,13.4,18.0,16.8,19.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),South Carolina,15.2,14.9,15.5,22.1,21.3,22.9
+All people in poverty (2018),Children ages 0-17 in poverty (2018),South Dakota,12.9,12.4,13.4,16.1,15.1,17.1
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Tennessee,15.2,14.9,15.5,21.8,21.1,22.5
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Texas,14.9,14.7,15.1,21.1,20.7,21.5
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Utah,9.1,8.7,9.5,9.7,9.0,10.4
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Vermont,10.7,10.1,11.3,12.2,11.1,13.3
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Virginia,10.7,10.5,10.9,13.8,13.2,14.4
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Washington,10.3,10.1,10.5,12.6,12.0,13.2
+All people in poverty (2018),Children ages 0-17 in poverty (2018),West Virginia,17.4,16.9,17.9,23.2,22.1,24.3
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Wisconsin,11.1,10.9,11.3,14.1,13.5,14.7
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Wyoming,10.7,10.0,11.4,13.1,11.9,14.3
+
+Textbox100,Textbox119,state_National2,total_est_pct4,total_est_pct_Bmin4,total_est_pct_Bmax4,under18_pct4,under18_pct_Bmin4,under18_pct_Bmax4
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Alabama,"801,758","785,668","817,848","255,613","247,744","263,482"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Alaska,"80,224","76,253","84,195","26,096","24,139","28,053"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Arizona,"990,291","970,614","1,009,968","328,780","317,583","339,977"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Arkansas,"492,306","478,253","506,359","164,056","157,120","170,992"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),California,"4,972,955","4,927,111","5,018,799","1,539,628","1,512,838","1,566,418"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Colorado,"540,579","526,780","554,378","151,618","143,217","160,019"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Connecticut,"358,519","347,713","369,325","100,250","94,949","105,551"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Delaware,"114,691","108,944","120,438","35,031","32,638","37,424"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),District of Columbia,"107,806","101,833","113,779","30,803","27,014","34,592"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Florida,"2,854,438","2,815,667","2,893,209","831,420","809,956","852,884"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Georgia,"1,484,439","1,458,654","1,510,224","516,311","501,546","531,076"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Hawaii,"124,400","118,134","130,666","35,184","32,034","38,334"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Idaho,"201,804","194,060","209,548","62,392","58,102","66,682"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Illinois,"1,509,348","1,485,972","1,532,724","457,282","442,712","471,852"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Indiana,"844,165","826,659","861,671","268,470","258,334","278,606"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Iowa,"342,574","332,902","352,246","96,859","91,572","102,146"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Kansas,"336,892","326,660","347,124","102,616","97,199","108,033"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Kentucky,"723,053","707,601","738,505","219,283","210,957","227,609"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Louisiana,"848,005","830,136","865,874","286,532","276,951","296,113"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Maine,"151,458","145,939","156,977","35,960","33,575","38,345"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Maryland,"538,824","523,341","554,307","159,872","150,870","168,874"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Massachusetts,"668,402","652,693","684,111","166,516","157,639","175,393"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Michigan,"1,369,235","1,349,291","1,389,179","409,201","398,097","420,305"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Minnesota,"527,445","514,989","539,901","147,732","140,356","155,108"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Mississippi,"571,402","557,711","585,093","195,794","189,072","202,516"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Missouri,"785,343","769,878","800,808","245,703","236,272","255,134"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Montana,"134,185","128,732","139,638","36,711","34,369","39,053"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),National,"41,852,315","41,619,366","42,085,264","12,997,532","12,873,127","13,121,937"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Nebraska,"205,393","198,766","212,020","60,389","56,678","64,100"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Nevada,"391,347","380,868","401,826","124,828","119,343","130,313"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),New Hampshire,"100,076","95,577","104,575","25,379","22,837","27,921"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),New Jersey,"831,386","812,117","850,655","261,055","249,871","272,239"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),New Mexico,"386,739","375,921","397,557","119,378","114,036","124,720"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),New York,"2,603,303","2,569,152","2,637,454","751,694","733,127","770,261"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),North Carolina,"1,422,154","1,396,634","1,447,674","457,103","444,178","470,028"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),North Dakota,"77,959","73,677","82,241","19,332","17,588","21,076"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Ohio,"1,568,586","1,542,309","1,594,863","489,053","474,343","503,763"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Oklahoma,"593,936","581,499","606,373","200,399","193,606","207,192"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Oregon,"516,014","501,947","530,081","134,073","126,558","141,588"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Pennsylvania,"1,517,936","1,494,550","1,541,322","433,329","420,626","446,032"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Rhode Island,"130,538","124,551","136,525","36,239","33,846","38,632"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),South Carolina,"750,582","733,961","767,203","241,192","232,102","250,282"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),South Dakota,"109,814","105,334","114,294","34,211","32,170","36,252"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Tennessee,"1,003,055","982,886","1,023,224","322,616","311,705","333,527"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Texas,"4,181,623","4,132,580","4,230,666","1,543,228","1,511,665","1,574,791"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Utah,"283,562","272,328","294,796","89,015","82,557","95,473"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Vermont,"64,431","60,844","68,018","13,791","12,515","15,067"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Virginia,"884,898","865,159","904,637","253,481","242,464","264,498"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Washington,"761,941","745,531","778,351","205,912","195,966","215,858"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),West Virginia,"305,656","296,233","315,079","82,213","78,182","86,244"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Wisconsin,"626,748","613,179","640,317","176,595","169,553","183,637"
+All people in poverty (2018),Children ages 0-17 in poverty (2018),Wyoming,"60,097","56,071","64,123","17,314","15,745","18,883"
+
