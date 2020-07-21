@@ -5,6 +5,17 @@ The goal of my project is to explore just how small of a subsection of voters is
 
 As with all things we needed to understand the baseline rules of the presidential election process.
 
+# Project Outline:
+
+This project arbitrarly selected 7/13 as a static end point of reference to complete this project.
+
+Three notebooks
+
+1. National - Top down appraoch using polls surveys and simulations to drill down on the key swing states (Florida)
+2. Florida - Bottoms up approach using data features of demographics collected at a county by county basis to determine how to model and predict the voter turnout and presidential votes for the 2020 election.
+3. Simulation - Pulled simulation out of "National" notebook, to run simulations and continuously append to a csv file so we can see the results of all simulations.
+
+
 # Project Isssues:
 
 Data Collection is ... inconsistent (to put it lightly):
