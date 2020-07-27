@@ -5,7 +5,7 @@ The goal of my project is to explore and model the key swing state in the 2020 e
 
 As with all things we needed to understand the baseline rules of the presidential election process.
 
-![Simulated Election Results](http://github.com/bktong/Project-Reveal/images/EV Breakdown.png)
+![Simulated Election Results](http://github.com/bktong/Project-Reveal/images/EV_Breakdown.png)
 
 
 # Project Outline:
